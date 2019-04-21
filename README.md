@@ -1,2 +1,2 @@
-# NodejsDesginLearning
+# NodejsDesignLearning
 About the book Node.js Design Patterns
