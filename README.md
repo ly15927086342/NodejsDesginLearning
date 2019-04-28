@@ -1,4 +1,4 @@
-# NodejsDesginLearning
+# NodejsDesignLearning
 About the book Node.js Design Patterns
 
 ## 文件结构
